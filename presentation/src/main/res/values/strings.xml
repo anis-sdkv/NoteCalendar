@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="task">Задача</string>
+    <string name="title">Заголовок</string>
+    <string name="deadlines">Сроки выполнения</string>
+    <string name="hint_deadlines">Нажмите, чтобы выбрать дату начала и окончания</string>
+    <string name="hint_edit">Нажмите, чтобы изменить</string>
+    <string name="description">Описание</string>
+    <string name="hint_start_typing">Начните ввод</string>
+    <string name="ok">Ok</string>
+</resources>
